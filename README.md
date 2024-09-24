@@ -5,8 +5,7 @@ I am a passionate Python developer with experience in building web applications 
 ## 💻 Technologies & Tools
 
 - **Programming Languages:** Python
-- **Web Frameworks:** Django, Django REST Framework (DRF)
-- **Frontend:** React
+- **Web Frameworks:** Django, Django REST Framework (DRF), React
 - **Containerization:** Docker
 - **Database:** PostgreSQL
 
