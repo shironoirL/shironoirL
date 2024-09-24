@@ -11,7 +11,7 @@ I am a passionate Python developer with experience in building web applications 
 
 ## 🚀 Projects
 
-- [**Audrie_full**](https://github.com/shironoirL/Audrie) - A project focused on drug repurposing using advanced bioinformatics techniques.
+- [**Audrie**](https://github.com/shironoirL/Audrie) - A project focused on drug repurposing using advanced bioinformatics techniques.
 
 
 
