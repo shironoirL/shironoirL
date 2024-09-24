@@ -1,10 +1,24 @@
-## Используемые технологии
+# 👋 Hi, I'm Vladislav!
 
-| Технология | Иконка |
-|------------|--------|
-| Python     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/> |
-| Django     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" width="40" height="40"/> |
-| Django REST Framework | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django REST Framework" width="40" height="40"/> |
-| React      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/> |
-| Docker     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/> |
-| Nginx      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40"/> |
+I am a passionate Python developer with experience in building web applications using various modern technologies. My main focus is on creating efficient, scalable, and user-friendly solutions. 
+
+## 💻 Technologies & Tools
+
+- **Programming Languages:** Python
+- **Web Frameworks:** Django, Django REST Framework (DRF)
+- **Frontend:** React
+- **Containerization:** Docker
+- **Database:** PostgreSQL
+
+## 🚀 Projects
+
+- [**Audrie_full**](https://github.com/shironoirL/Audrie) - A project focused on drug repurposing using advanced bioinformatics techniques.
+
+
+
+## 📫 Connect with Me
+
+- Email: shironoir@yandex.ru
+- telegram: @shironoir
+
+Feel free to reach out if you want to collaborate or just have a chat about tech!
